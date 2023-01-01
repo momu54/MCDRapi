@@ -1,0 +1,11 @@
+{
+	"id": "mcdrapi",
+	"version": "1.0.0",
+	"name": "MCDRapi",
+	"description": "Allows you to write plugins in other languages.",
+	"author": "momu54",
+	"link": "https://github.com/MCDReforged/",
+	"dependencies": {
+		"mcdreforged": ">=2.0.0-alpha.1"
+	}
+}
